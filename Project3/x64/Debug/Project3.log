@@ -1,0 +1,6 @@
+﻿  MyForm.cpp
+C:\Users\ТЕХНОТОП\Desktop\Комп'ютерна практика\Project3\MyForm.h(178,77): error C2039: "textBox4_TextChanged": не является членом "Project3::MyForm".
+C:\Users\ТЕХНОТОП\Desktop\Комп'ютерна практика\Project3\MyForm.h(15): message : см. объявление "Project3::MyForm"
+C:\Users\ТЕХНОТОП\Desktop\Комп'ютерна практика\Project3\MyForm.h(178,1): error C2065: textBox4_TextChanged: необъявленный идентификатор
+C:\Users\ТЕХНОТОП\Desktop\Комп'ютерна практика\Project3\MyForm.h(178,1): error C3924: ошибка в аргументе #2 вызова конструктора делегата "System::EventHandler":
+C:\Users\ТЕХНОТОП\Desktop\Комп'ютерна практика\Project3\MyForm.h(178,1): message : требуется указатель на функцию-член
